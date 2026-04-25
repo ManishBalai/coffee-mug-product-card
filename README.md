@@ -30,6 +30,7 @@ https://manishbalai.github.io/coffee-mug-product-card/
 
 <img width="1919" height="928" alt="Screenshot 2026-04-25 112239" src="https://github.com/user-attachments/assets/bc7593db-3d92-4200-aaf6-556d9a31f38e" />
 
+
 📌 What I Learned
 
 * Responsive UI design
